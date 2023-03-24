@@ -24,3 +24,7 @@ npm run build
 ```
 
 You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
+
+# Demo
+
+You can live website in [Tailwind Manage Landing Page](https://franzamd.github.io/tailwind-manage-landing-page/)
